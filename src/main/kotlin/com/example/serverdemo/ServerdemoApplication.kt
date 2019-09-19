@@ -9,3 +9,4 @@ class ServerdemoApplication
 fun main(args: Array<String>) {
     runApplication<ServerdemoApplication>(*args)
 }
+
